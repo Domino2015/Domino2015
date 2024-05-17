@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Domino2015&left_color=green&right_color=red)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Domino2015&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
  
 <!--
 **Domino2015/Domino2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
