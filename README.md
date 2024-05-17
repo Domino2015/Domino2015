@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Domino2015&left_color=green&right_color=red)
+ 
 <!--
 **Domino2015/Domino2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
