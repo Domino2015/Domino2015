@@ -12,6 +12,14 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  
+  #### 📈Statistics
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+  
   #### 🎮️Gaming:
   ![Counter-Strike](https://img.shields.io/badge/Counter-Strike-000000?style=flat-square&logo=Counter-Strike&logoColor=white)
 
