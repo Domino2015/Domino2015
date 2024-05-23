@@ -13,16 +13,16 @@
   <code><img height="30" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="30" src="https://pytorch.apachecn.org/img/logo.svg"></code>
-  <code><img height="30" src="https://www.gstatic.com/devrel-devsite/prod/vdc54107fd8beee9a25bbc52caca7c5cd8d6bde91b94b693cf51910bd553c2293/tensorflow/images/lockup.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="30" src="https://www.gstatic.com/devrel-devsite/prod/vdc54107fd8beee9a25bbc52caca7c5cd8d6bde91b94b693cf51910bd553c2293/tensorflow/images/lockup.svg"></code>
+  <code><img height="30" src="https://pytorch.apachecn.org/img/logo.svg"></code>
   
   
   
   
-#### 🎮️Gaming:
+#### 🎮️ Gaming:
   ![Counter-Strike](https://img.shields.io/badge/Counter-Strike-000000?style=flat-square&logo=Counter-Strike&logoColor=white)
 
 
