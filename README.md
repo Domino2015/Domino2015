@@ -10,11 +10,11 @@
   - 📱📱📱 The image processing algorithms I spearheaded the design and development of are now deployed and running on **millions of mobile devices** worldwide (primarily in mainland China) across multiple flagship models from various smartphone brands, serving as a native camera feature.
 
 #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="30" src="https://en.wikipedia.org/wiki/File:OpenCV_Logo_with_text_svg_version.svg"></code>
+  <code><img height="30" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="30" src="https://pytorch.apachecn.org/img/logo.svg"></code>
-  <code><img height="30" src="https://zh.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlow_logo.svg"></code>
+  <code><img height="30" src="https://www.gstatic.com/devrel-devsite/prod/vdc54107fd8beee9a25bbc52caca7c5cd8d6bde91b94b693cf51910bd553c2293/tensorflow/images/lockup.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
