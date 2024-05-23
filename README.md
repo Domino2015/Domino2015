@@ -7,6 +7,7 @@
   - 🌏🧑‍💻  I’m currently working with C++, Python, MATLAB, PyTorch, TensorFlow, etc.
   - 📷🤳🖼️ I’m currently exploring **H**igh **D**ynamic **R**ange (HDR) ,**E**xtended **D**epth of **F**oucs (EDoF) , Monocular Depth Estimation.
   - 🧬👨‍🔬🧪 I’m also very interested in new biological detection technologies in point-of-care testing. Such as **C**lustered **R**egularly **I**nterspaced **S**hort **P**alindromic **R**epeats (CRISPR), lensless microscopic technologies.
+  - 📱📱📱 The image processing algorithms I spearheaded the design and development of are now deployed and running on **millions of mobile devices** worldwide (primarily in mainland China) across multiple flagship models from various smartphone brands, serving as a native camera feature.
 
 #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="30" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></code>
